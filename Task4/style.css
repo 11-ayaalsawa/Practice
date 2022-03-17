@@ -1,0 +1,16 @@
+div {
+
+ position: absolute;  
+ top: 15%; 
+ left: 35%;
+ text-align: center;
+
+}
+
+#name {
+    width: 60%;
+}
+
+#about {
+    height: 100px;
+}

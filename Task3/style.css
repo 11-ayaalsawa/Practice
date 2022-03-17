@@ -1,0 +1,18 @@
+body {
+    background-image: url("https://www.thesprucepets.com/thmb/e-SDXNlkSfVn8kVH_1H7qOTt9cE=/1885x1414/smart/filters:no_upscale()/GettyImages-1144157924-52f5bd679db74abfb01615715e68e63c.jpg");
+    background-position: 50%;
+    background-repeat: no-repeat;
+}
+
+
+.green {
+    background-color:white;
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
+
+.green:hover {
+   opacity: 0;
+}
+

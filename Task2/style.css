@@ -1,0 +1,93 @@
+body {
+    background-color: rgb(31, 31, 31);
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    margin: 40px;
+}
+
+
+
+span {
+    width: 250px;
+    height: 250px;
+}
+
+span h1 {
+    padding-left: 20px;
+    padding-top: 60px;
+
+}
+
+span p {
+    padding-left: 20px;
+    font-size: xx-small;
+
+}
+
+
+.text {
+    background-color: rgba(36, 36, 36, 0.534);
+    color: white;
+    position: absolute;
+    top: 12%;
+    left: 12%;
+    opacity: 0;
+    font-size: small;
+    
+}
+
+ .text1:hover {
+    opacity: 1;
+    border-radius: 50%;
+}
+
+
+.text2:hover {
+    opacity: 1;
+    clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+   
+}
+
+.text3:hover {
+    opacity: 1;
+    clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+}
+
+
+
+.img1 {
+    border-radius: 50%;
+}
+
+.img2 {
+    clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+}
+
+.img3 {
+    clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+}
+
+
+
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding-left: 18%;
+}
+
+.container {
+    position: relative;
+}
+
+
+
+
+
+
+
+     
